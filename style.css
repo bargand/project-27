@@ -4,8 +4,6 @@
   box-sizing: border-box;
 }
 .container {
-  /* display: flex;
-    flex-direction: column; */
   width: 100vw;
   height: 100vh;
   background: rgb(0, 0, 0);
@@ -40,20 +38,15 @@
   align-items: center;
   flex-direction: column;
   margin: auto;
-  /* margin-top: auto; */
   margin-top: 48px;
-  /* border: 2px solid; */
   border-radius: 15px;
 }
 .MyName {
   display: flex;
   flex-direction: row;
-  /* margin-top: -390px; */
   align-items: center;
-  /* margin-left: -167px; */
   width: 350px;
   margin: 10px 10px auto;
-  /* background: #b8aeae63; */
   padding: 5px;
   border-radius: 15px 15px 0px 0px;
 }
@@ -71,15 +64,12 @@
   width: 350px;
   height: 337px;
   background: #ffffff;
-  /* border-radius: 0px 0px 15px 15px; */
   margin-bottom: 16px;
 }
 #MyImage2 {
   width: 350px;
   height: 337px;
   background: #ffffff;
-  /* border-radius: 0px 0px 15px 15px; */
-  /* margin-bottom: 16px; */
 }
 #UpperImage {
   width: 217px;
